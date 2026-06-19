@@ -1,0 +1,16 @@
+RollNo,Name,Branch,Book_Title,issuedate,returndate,Fine
+101,Aman Sharma,CSE,Data Structures,1-Jun-26,15-Jun-26,0
+102,Priya Verma,EEE,Electrical Machines,2-Jun-26,16-Jun-26,20
+103,Rahul Singh,ME,Thermodynamics,3-Jun-26,17-Jun-26,0
+104,Neha Gupta,CSE,Operating Systems,4-Jun-26,18-Jun-26,50
+105,Vikas Kumar,CE,Structural Analysis,5-Jun-26,19-Jun-26,0
+106,Anjali Mishra,ECE,Digital Electronics,6-Jun-26,20-Jun-26,30
+107,Rohit Yadav,CSE,Database Management Systems,7-Jun-26,21-Jun-26,10
+108,Simran Kaur,IT,Computer Networks,8-Jun-26,22-Jun-26,40
+109,Arjun Patel,ME,Fluid Mechanics,9-Jun-26,23-Jun-26,0
+110,Kavya Singh,ECE,Microprocessors,10-Jun-26,24-Jun-26,60
+111,Mohit Jain,CSE,Artificial Intelligence,11-Jun-26,25-Jun-26,0
+112,Pooja Saxena,CE,Surveying,12-Jun-26,26-Jun-26,25
+113,Sachin Gupta,EEE,Power Systems,13-Jun-26,27-Jun-26,0
+114,Riya Sharma,IT,Web Technologies,14-Jun-26,28-Jun-26,35
+115,Deepak Verma,CSE,Software Engineering,15-Jun-26,29-Jun-26,0
